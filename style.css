@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Press Start 2P', cursive;
+    background-image: linear-gradient(to right, red , yellow);
+}
+
+.header_div
+{
+    background-color: #ff70ea;
+    color: #001aff;
+}
+
+.header_div p
+{
+    font-family: 'Roboto';
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'serif';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right 
+{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-image: linear-gradient(to right, black , white);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
